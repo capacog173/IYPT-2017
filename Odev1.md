@@ -1,21 +1,18 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-C   | Cemre İşler | 622
+9-C   | Öykü Gökalp | 583
+9-C   | Gamze Merve Mutlu | 559
 
-#  (buraya proje başlığını yazınız)
+#  HELMHOLTZ CAROUSEL 
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Problemimizde Helmholtz Carousel yani Helmholtz Atlı Karıncasını ve bu aracın preformansını nasıl artırabileceğimizi araştırıyoruz.  Yani yapılan hangi değişikliklerle, bu performansı nasıl ve ne kadar artırabileceğimizi bulmak; asıl amaçlarımızdandır. Tahminlerimizi, Helmholtz Resonator'ı (Helmholtz Yankılayıcısı) da kullanarak deneylerle kanıtlaycağız. Problemimizi çözmeye de bu yankılayıcıyı araştırarak başlıyoruz. Bir Helmholtz Yankılayıcısı (genellikle hava olmak üzere) bir gaz kabıdır ve açık bir boru girişi bulundurur. Bu boru girişinin yakınındaki hava içerideki havanın 'yaylanması' yüzünden titreşir. Bu titreşen havayı da boruya üfleyerek sıkıştırdığımızda yankılanan, çınlayan sesi duyabiliriz. İşte biz tam da bu çınlayan sesi seçtiğimiz soruda da bahsedilen noel ağacının süslenmesinde kullanılan topları döndürmek için kullanacağız. Bizden önceki tecrübelere göre yankılayıcıdan çıkan sesin frekansı 200 hz. civarındadır, bu nedenle ses dalgalarının boyları da 1.5 metre civarındadır ve boşluğun doğrusal boyutlarından daha fazladır. Bu çıkan sesin atlı karıncamızı döndürmesinde kullanılması planlandığından bu sonuç bizim için çok önemlidir ve daha sonraki aşamalarda frekansın dalga boyuna etkisi, frekansın nasıl artırılacağı ve bu artışın atlı karıncanın dönüşünü nasıl etkileyeceği araştırılacaktır. Sonuç olarak atlı karıncanın dönmesinde etkili olan parametrelerden bazıları şunlardır: Belirli frekans, yankılayıcının borunun (üflenen kısım) boyu, borunun yarıçapı ...
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 1.Ivan Chaika, Mikhail Luptakov, Anna Schetnikova, Vladislav Tumanov, Russia, IYPT slides, 2013
+    http://archive.iypt.org/solutions/
+ 2.Han, Myonghyon, "Sound reduction by a Helmholtz resonator" (2008).Theses and Dissertations. Paper 1015.
+ 
