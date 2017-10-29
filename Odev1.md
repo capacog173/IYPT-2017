@@ -3,8 +3,8 @@
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 9-C   | Cemre İşler | 622
-9-C   | Öykü Gökalp | 
-9-C   | Gamze Merve Mutlu |
+9-C   | Öykü Gökalp | 583
+9-C   | Gamze Merve Mutlu | 559
 
 #  HELMHOLTZ CAROUSEL 
 ## Özet
